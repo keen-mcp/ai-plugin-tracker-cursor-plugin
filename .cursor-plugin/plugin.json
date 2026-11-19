@@ -1,0 +1,15 @@
+{
+  "name": "ai-plugin-tracker",
+  "displayName": "AI Plugin Tracker",
+  "version": "0.1.0",
+  "description": "Search a catalog of ChatGPT apps and Claude connectors and track their directory rankings, tier changes and history. Read-only, Google sign-in.",
+  "author": {
+    "name": "Keenethics",
+    "email": "labs@keenethics.com"
+  },
+  "homepage": "https://mcp-app-store-chatgpt.keenethics-labs.com",
+  "repository": "https://github.com/keen-mcp/ai-plugin-tracker-cursor-plugin",
+  "license": "MIT",
+  "keywords": ["mcp", "chatgpt-apps", "claude-connectors", "catalog-search", "directory-rankings"],
+  "logo": "assets/logo_ai-plugin-tracker.svg"
+}
